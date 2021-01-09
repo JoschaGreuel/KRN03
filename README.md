@@ -25,6 +25,7 @@
 
 ### PM
 | Michael Fuhrmann | Product Owner | |
+| -| -| -|
 | Eckhard Moos | Customer / SteeCo | |
 | Joscha Greuel | coordinator / facilitator / SteeCo | https://github.com/JoschaGreuel |
 | Taqi Safdari | coordinator / facilitator Herat | |
