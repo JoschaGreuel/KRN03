@@ -19,15 +19,12 @@
 
 
 ### Code management / IDE
-* Github Code repository
+* Github Code repository (here)
 * IDE as chosen by Kiterunner / Jawid
 * Joscha will provide virtual image for virtualbox to debug the project
 
-### Todos
-* Clearify, Virtualbox free also for business purposes -> done
-* Get KERN Design running  - on virtual image best
-* Get Gern Prozess running - on virtual image best
-* Meeting R. Feldbrügge, 1h, EM, MF, FL, JG -> 13.1. 15:00
 ### PM
 * Michael Fuhrmann Product Owner
 * Eckhard Moos as Customer / SteeCo
+* Joscha Greuel as coordinator / facilitator
+* Taqi Safdari as coordinator / facilitator Herat
