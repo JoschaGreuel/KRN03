@@ -24,8 +24,9 @@
 * Joscha will provide virtual image for virtualbox to debug the project
 
 ### PM
-| Michael Fuhrmann | Product Owner | |
+| | | |
 | -| -| -|
+| Michael Fuhrmann | Product Owner | |
 | Eckhard Moos | Customer / SteeCo | https://github.com/SerendipityCeylon |
 | Joscha Greuel | coordinator / facilitator / SteeCo | https://github.com/JoschaGreuel |
 | Taqi Safdari | coordinator / facilitator Herat | https://github.com/taqisafdari|
