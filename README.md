@@ -24,7 +24,10 @@
 * Joscha will provide virtual image for virtualbox to debug the project
 
 ### PM
-* Michael Fuhrmann Product Owner
-* Eckhard Moos as Customer / SteeCo
-* Joscha Greuel as coordinator / facilitator
-* Taqi Safdari as coordinator / facilitator Herat
+| Michael Fuhrmann | Product Owner | |
+| Eckhard Moos | Customer / SteeCo | |
+| Joscha Greuel | coordinator / facilitator / SteeCo | https://github.com/JoschaGreuel |
+| Taqi Safdari | coordinator / facilitator Herat | |
+| Jawid Jami | | |
+
+github.com/JoschaGreuel
