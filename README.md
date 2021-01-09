@@ -26,9 +26,7 @@
 ### PM
 | Michael Fuhrmann | Product Owner | |
 | -| -| -|
-| Eckhard Moos | Customer / SteeCo | |
+| Eckhard Moos | Customer / SteeCo | https://github.com/SerendipityCeylon |
 | Joscha Greuel | coordinator / facilitator / SteeCo | https://github.com/JoschaGreuel |
-| Taqi Safdari | coordinator / facilitator Herat | |
-| Jawid Jami | | |
-
-github.com/JoschaGreuel
+| Taqi Safdari | coordinator / facilitator Herat | https://github.com/taqisafdari|
+| Jawid Jami | Developer | https://github.com/ahmadjawidjami |
