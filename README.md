@@ -20,7 +20,7 @@
 
 ### Code management / IDE
 * Github Code repository (here)
-* IDE as chosen by Kiterunner / Jawid
+* IDE as chosen by Kiterunner / Jawid Jami
 * Joscha will provide virtual image for virtualbox to debug the project
 
 ### PM
