@@ -17,6 +17,15 @@
   * The project is aiming for being a fully standalone worthful solution e.g. to explain business processes in school or university environment
   * after an agreed period (e.g. 3 month) a stable application is judged and will the experiences made will open the horizon for future development of KERN Process 2.0 
 
+### additional information / future outlook
+  * In a future version we need the possibility to be export and import all data according to the BPMN 2.0 model
+    * https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
+  * for this project, import/export is not required, but the datamodel has to be prepared accordingly
+  * for this project, UI elements + usability is in focus
+* Focus on UI
+  * the selection of libraries / tools / methods and any other technology is crucial
+  * find a screenshot of a related software Kern process and maybe an outlook to where Kern Design 2.0 will evolve and draw the decision of UI technology in regards to the elements visible there
+  * take into account the graphical elements of BPMN 2.0
 
 ### Code management / IDE
 * Github Code repository (here)
@@ -31,3 +40,6 @@
 | Joscha Greuel | coordinator / facilitator / SteeCo | https://github.com/JoschaGreuel |
 | Taqi Safdari | coordinator / facilitator Herat | https://github.com/taqisafdari|
 | Jawid Jami | Developer | https://github.com/ahmadjawidjami |
+
+### Screenshot Kern process as outlook on gephical elements
+
