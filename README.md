@@ -41,5 +41,6 @@
 | Taqi Safdari | coordinator / facilitator Herat | https://github.com/taqisafdari|
 | Jawid Jami | Developer | https://github.com/ahmadjawidjami |
 
-### Screenshot Kern process as outlook on gephical elements
+### Screenshot Kern process as outlook on graphical elements
+
 
