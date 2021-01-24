@@ -42,5 +42,6 @@
 | Jawid Jami | Developer | https://github.com/ahmadjawidjami |
 
 ### Screenshot Kern process as outlook on graphical elements
+![](https://github.com/JoschaGreuel/KRN03/blob/master/img/KERN-Process.png)
 
 
