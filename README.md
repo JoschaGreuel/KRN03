@@ -6,7 +6,7 @@
   * Instead of a list of deliverables for approval, there will be weekly meetings to judge and adopt the focus of development
     * A focus is on graphical elements to prove the technology used is suitable
     * Therefore, a screenshot of the application KERN Prozess is also delivered, even if it is not part of this project. It gives the developer an outlook and should help to find the right technology (library / libraries)
-    * Drag & Drop is an required feature
+    * Drag & Drop is a required feature
     * The possibility to also do every step using only the keyboard would be a plus
       * a big plus :-). And it should also made clear, that there is a generic methodology available to have also future actions in a future application be handled by keyboard only
     * Other features as the possibility to change color design are definitely not required
