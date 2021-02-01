@@ -1,10 +1,6 @@
 # KERN Design 2.0
 
 * Features as today desktop application
-* The Application comes with 3 predefined processes as showcase:
-  * purchase of one raw material
-  * 1-step production
-  * selling product
 * Approval
   * Main Purpose of KRN03-project is to have a web application running, stable, performant, nice-to-use
   * Instead of a list of deliverables for approval, there will be weekly meetings to judge and adopt the focus of development
@@ -16,6 +12,10 @@
     * Other features as the possibility to change color design are definitely not required
   * The project is aiming for being a fully standalone worthful solution e.g. to explain business processes in school or university environment
   * after an agreed period (e.g. 3 month) a stable application is judged and will the experiences made will open the horizon for future development of KERN Process 2.0 
+* The Application comes with 3 predefined processes as showcase:
+  * purchase of one raw material
+  * 1-step production
+  * selling product
 
 ### additional information / future outlook
   * In a future version we need the possibility to be export and import all data according to the BPMN 2.0 model
