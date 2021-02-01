@@ -12,6 +12,8 @@
     * Other features as the possibility to change color design are definitely not required
   * The project is aiming for being a fully standalone worthful solution e.g. to explain business processes in school or university environment
   * after an agreed period (e.g. 3 month) a stable application is judged and experiences made will open the horizon for future development of KERN Process 2.0 
+* Modules, objects and activities are fixed within this project
+  * it has to be read from external source (database) and can be extended and changed in the future
 * The Application comes with 3 predefined processes as showcase:
   * purchase of one raw material
   * 1-step production
