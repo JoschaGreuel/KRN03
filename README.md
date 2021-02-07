@@ -14,7 +14,7 @@
   * after an agreed period (e.g. 3 month) a stable application is judged and experiences made will open the horizon for future development of KERN Process 2.0 
 * Modules, objects and activities are fixed within this project
   * it has to be read from external source (database) and can be extended and changed in the future
-* The Application comes with 3 predefined processes as showcase:
+* The Application comes with 3 predefined processes as showcase (_this part will be delivered by Kern AG_)
   * purchase of one raw material
   * 1-step production
   * selling product
