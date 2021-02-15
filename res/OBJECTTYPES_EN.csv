@@ -1,0 +1,27 @@
+ID	TXT	MODULE_ID
+FA	Production Order	CO
+KS	Cost Center	CO
+KT	Cost Object	CO
+OR	Internal Order	CO
+AN	Facility	FI
+BA	Bank	FI
+CR	Customer	FI
+GL	General Ledger	FI
+NN	Nomen nominandum	FI
+VR	Vendor	FI
+IB	Building	HM
+IM	Rental Unit	HM
+IP	Property	HM
+IV	Rental Agreement	HM
+IW	Business Entity	HM
+EM	Employee	HR
+MM	Material	MM
+PO	Purchase Order	MM
+VR	Vendor	MM
+OR	Maintenance Order	PM
+OR	Production Order	PP
+NP	Network Plan Activity	PS
+PR	Wbs Element	PS
+PS	Project	PS
+CR	Customer	SD
+SO	Sales Order	SD

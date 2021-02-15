@@ -1,0 +1,34 @@
+ID	TXT
+RKP1	Primary costs
+RKP2	Offer of activity quantity, capacity; price
+RKP3	Activity allocation; Sender: Cost Center/Activity Type
+RKP4	Quantity of Statistical Key Figure
+RKP5	Revenue
+RKP8	Order costs
+COIN	CO Through-postings from FI
+RKL	Activity allocation
+RKLU	Activity allocation reposting
+RKS	Enter statistical key figures
+RKU1	Repost costs
+RKU2	Repost revenue
+RKU3	Repost CO line items
+RMWA	Goods movement
+RMWE	Goods receipt purchase order
+RMWF	Goods receipt production order
+RMWL	Goods issue delivery
+SDGI	Post goods issue
+KOAP	Settlement Plan
+KSP1	Split costs (primary)
+KSP2	Split costs (secondary)
+RKPB	Periodic Reposting
+RKPL	Indirect activity allocation
+RKPU	Overhead cost assessment
+RKPV	Overhead cost distribution
+KOAO	Settlement
+KSI1	Split costs (primary)
+KSI2	Split costs (secondary)
+KZPI	Overhead (periodic)
+RKIB	Periodic Repostings
+RKIL	Inverse activity allocation
+RKIU	Overhead Assessment
+RKIV	Overhead Distribution

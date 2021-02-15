@@ -1,0 +1,194 @@
+TXT	OBJECTTYPE_ID
+Automotive Assembly 	KS
+Pump Production     	KS
+Motorcycle Prod.    	KS
+Work Scheduling     	KS
+Motorcycle Assembly 	KS
+Prod. Automotive    	KS
+Assembly PC I       	KS
+Assembly PC II      	KS
+External Services   	KS
+Quality Control     	KS
+Quality Assurance   	KS
+Finance & Admin.    	KS
+Engineering/Design  	KS
+Website	OR
+Tutorials	OR
+Shuttle Service Order	OR
+Costs for new PCs	OR
+Marketing Campaign: Motorcycles TV	OR
+Marketing Campaign: Motorcycles Magazines 	OR
+Marketing Campaign: Promotion general	OR
+PC product (GR.00)	OR
+PC product (GR.01)	OR
+PC product (GR.02)	OR
+PC product (GR.03)	OR
+Licences and patents	AN
+Software	AN
+Development & production procedures	AN
+Admin building	AN
+Production hall	AN
+Parking lots	AN
+Fleet of cars & trucks	AN
+Furniture	AN
+Hardware	AN
+Machinery	AN
+Operating facilities	AN
+Conveying equipment	AN
+Admin building	AN
+Chris Miller	CR
+Frank Schmidtrohr	CR
+Michaela Meier	CR
+Sally Thompson	CR
+Douglas Olson	CR
+Carole B	CR
+Shinozaki Tsutomo	CR
+Tsutomu Shinozaki	CR
+Ichiro Sugiyama	CR
+John Smith	CR
+Sugiyama Ichiro	CR
+Adidas	CR
+Puma	CR
+Nike	CR
+Elektromarkt Bamby       	VR
+Paul Jonas               	VR
+Becker Berlin            	VR
+Aldo Supermarkt          	VR
+Autohaus Franzl Gmbh     	VR
+Amadeus                  	VR
+Editorial Atlántida S.A. 	VR
+Blue Colar	EM
+Blue Colar	EM
+White Colar	EM
+White Colar	EM
+Employee	EM
+Employee	EM
+DVD: Miami Fun	MM
+Acsis Demo Product	MM
+2223	MM
+Concrete tie 7x9x9	MM
+Wood Tie 7x8x8'	MM
+Concrete Tie 7x9x9'	MM
+Concrete Tie 7x8x8'	MM
+Ballast gravel rock	MM
+Wood Set # 20	MM
+Automatic Switch Stand # 20	MM
+Manual Switch Stand # 20	MM
+Notebook with analytic software	MM
+Cooling air indicator	MM
+Monitor Cable DVI Digital 1.5m	MM
+Notebook with analytic software	MM
+Cooling air indicator	MM
+MAKTX	MM
+Classification test	MM
+PCB Subassembly	MM
+Motorbike PLM130 group 00	MM
+Adjustable Bracket.iam	MM
+Clamp Screw.iam	MM
+Adjusting Nut.ipt	MM
+Adjusting Screw.ipt	MM
+Clamp Screw.ipt	MM
+Holder Bracket.ipt	MM
+Knob.ipt	MM
+Pilot Screw.ipt	MM
+Pin.ipt	MM
+Hexagon Socket Head Cap Screw - 1/4 - 20	MM
+Paint	MM
+Protection shield 1	MM
+Easy4U	MM
+Easy4U	MM
+HP Jornada 820	MM
+Paint	MM
+Wallpaper	MM
+Door	MM
+Carpeting	MM
+HK -01	MM
+HK -01	MM
+Spring Fresh Detergent, 64oz	MM
+Seal Kit	MM
+Telephone AT Company Modell AT-12	MM
+Hexagon Socket Set Screw - Flat Point -	MM
+Tool for checking uninterr. power supply	MM
+Pole, 35 Foot, Class 4	MM
+Guy Wire	MM
+Insulator	MM
+Crossarm	MM
+Bushing	MM
+Slug for fly wheel	MM
+Super heater	MM
+Soot blower	MM
+Evaporator coil	MM
+10W30 MOTOR OIL QT.	MM
+Acsis Demo Product	MM
+Acsis Demo - Bottles	MM
+Acsis Demo - Bottles	MM
+Acsis Demo - Caps	MM
+Acsis Demo - Caps	MM
+2222	MM
+Tool for checking uninterr. power supply	MM
+Slug for spiral casing	MM
+Flat gasket	MM
+Flat gasket	MM
+Hexagon head screw M10	MM
+Becker Stuttgart         	VR
+Cycle Concepts North     	VR
+Christal Clear           	VR
+Virtual Supplier: Abroad	VR
+Virtual Supplier: Domestic	VR
+C.A.S. Computer Applicati	VR
+Computer Competence Cente	VR
+Productos Argentinos Imp.	VR
+Electricité, Gaz Et Eau  	VR
+Erl Freiburg             	VR
+Adam Baumgarten Und Söhne	VR
+The Bikes Shop           	VR
+Bm Automobil Ag          	VR
+Buy & Fly Supermarkt     	VR
+Cycles Inc.              	VR
+Dela Handelsgesellschaft 	VR
+Us-Partner               	VR
+Ides Ag Tochtergesellscha	VR
+A.I.T. Gmbh              	VR
+Becker Berlin (Versand)  	VR
+Becker Koeln             	VR
+Regular inspection of the sewage treatment plant	OR
+Adjust unbalanced impeller	OR
+Strong vibrations at the pump	OR
+Regular inspection of the sewage treatment plant	OR
+Valve on pump leaking	OR
+Regular inspection of the sewage treatment plant	OR
+Calibration of measuring instruments	OR
+Calibration multimeter	OR
+Calibration of measuring instruments	OR
+Calibration of measuring instruments	OR
+Turbine	OR
+Pump	OR
+Cetepharm tablets	OR
+Vacancies	OR
+Elevator	OR
+Nellos	OR
+Reconstruction inlet pumping station	OR
+BW Challenge	OR
+Establish System Administration Function	OR
+Setup Template Sandbox System	OR
+Prototype Pump PDM-1000                 	PR
+Information Systems Project - Capital   	PR
+New administration building             	PR
+Marketing Scenarios                     	PR
+Recruitment System                      	PR
+Payroll System                          	PR
+Installation new pump                   	PR
+Transmitter Station 	PR
+Maintenance Project - Expensed          	PR
+PRD Metabolism Endocrinology 2          	PR
+PRD Respiratory 1                       	PR
+PRD Anti Infective 1                    	PR
+PRD Cardiology 1                        	PR
+Virtual Customer: Abroad	CR
+Virtual Customer: Domestic	CR
+Uhlsport	SO
+Nike	SO
+Dave Bell Enterprises Pty	SO
+Adidas	SO
+Puma	SO
+Intersport	SO
